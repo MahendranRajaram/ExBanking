@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13210" started-at="2023-07-06T20:40:53 IST" finished-at="2023-07-06T20:41:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13210" started-at="2023-07-06T20:40:53 IST" finished-at="2023-07-06T20:41:06 IST">
+      <class name="com.restfulbooker.apitest.businessLogics.APITest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.restfulbooker.apitest.businessLogics.APITest@7f6b8c]" name="beforeMethod" is-config="true" duration-ms="437" started-at="2023-07-06T20:40:53 IST" finished-at="2023-07-06T20:40:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.restfulbooker.apitest.businessLogics.APITest.createUser(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createUser(java.lang.reflect.Method)[pri:0, instance:com.restfulbooker.apitest.businessLogics.APITest@7f6b8c]" name="createUser" duration-ms="12132" started-at="2023-07-06T20:40:54 IST" finished-at="2023-07-06T20:41:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.restfulbooker.apitest.businessLogics.APITest.createUser(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.restfulbooker.apitest.businessLogics.APITest@7f6b8c]" name="afterMethod" is-config="true" duration-ms="532" started-at="2023-07-06T20:41:06 IST" finished-at="2023-07-06T20:41:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createUser status=SUCCESS method=APITest.createUser(java.lang.reflect.Method)[pri:0, instance:com.restfulbooker.apitest.businessLogics.APITest@7f6b8c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.restfulbooker.apitest.businessLogics.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
